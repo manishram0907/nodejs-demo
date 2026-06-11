@@ -3,6 +3,12 @@ pipeline {
 
     stages {
 
+        stage('Clone') {
+            steps {
+                git 'https://github.com/manishram0907/nodejs-demo.git'
+            }
+        }
+
         stage('Build Docker Image') {
             steps {
                 sh 'docker build -t nodejs-demo .'
