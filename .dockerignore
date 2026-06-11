@@ -1,0 +1,4 @@
+node_modules
+.git
+jenkins.log
+jenkins.war
