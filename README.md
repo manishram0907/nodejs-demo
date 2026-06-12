@@ -36,7 +36,7 @@ AWS EC2
 
 ## Live Application
 
-http://YOUR-EC2-PUBLIC-IP:8081
+http://13.235.94.85:8081
 
 ## GitHub Repository
 
