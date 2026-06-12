@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-    res.send('Hello!! This is the first changed and testing automation');
+    res.send('Hello from NodeJS Application');
 });
 
 app.listen(3000, () => {
