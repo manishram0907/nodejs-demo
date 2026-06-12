@@ -38,6 +38,9 @@ AWS EC2
 
 http://13.235.94.85:8081
 
+## Jenkins pipeline
+http://13.235.94.85:8080
+
 ## GitHub Repository
 
 https://github.com/manishram0907/nodejs-demo
@@ -52,7 +55,7 @@ https://github.com/manishram0907/nodejs-demo
 
 ![Jenkins Nodejs](screenshots/jenkins.png)
 
-##Jenkins Pipelines
+## Jenkins Pipelines
 ![Jenkins Pipelines](screenshots/pipeline.png)
 
 ## Docker Containers
