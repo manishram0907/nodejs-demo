@@ -41,3 +41,27 @@ http://13.235.94.85:8081
 ## GitHub Repository
 
 https://github.com/manishram0907/nodejs-demo
+
+# Node.js CI/CD Pipeline using Jenkins & Docker
+
+## Application Running
+
+![Application](screenshots/app-running.png)
+
+## Jenkins nodejs
+
+![Jenkins Nodejs](screenshots/jenkins.png)
+
+##Jenkins Pipelines
+![Jenkins Pipelines](screenshots/pipeline.png)
+
+## Docker Containers
+
+![Docker](screenshots/docker.png)
+
+## GitHub Webhook
+
+![Webhook](screenshots/webhook.png)
+
+## Github
+![Github](screenshots/github.png)
